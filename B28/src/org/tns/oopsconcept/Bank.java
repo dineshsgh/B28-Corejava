@@ -10,5 +10,3 @@ abstract public class Bank {
 	
 
 }
-
-	
